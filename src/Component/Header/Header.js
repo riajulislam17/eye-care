@@ -7,7 +7,7 @@ const Header = () => {
     const { user, logOut } = useAuth();
     return (
         <div className="">
-            <nav className="navbar navbar-expand-lg navbar-light bg-dark container-fluid">
+            <nav className="navbar navbar-expand-lg navbar-light bg-dark container-fluid sticky-top">
                 <div className="container">
                     <Link className="navbar-brand fw-bold text-success" to="/home">EYE CARE</Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">

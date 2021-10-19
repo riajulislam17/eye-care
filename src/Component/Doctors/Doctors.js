@@ -1,6 +1,5 @@
 import React from 'react';
 import { useEffect, useState } from 'react';
-import Appointment from './Appointment/Appointment';
 import DoctorsCard from './DoctorsCard';
 
 const Doctors = () => {
