@@ -1,0 +1,92 @@
+ [
+  {
+    "id": "1",
+    "name": "Dr. Mahbubur Rahman Chowdhury",
+    "qualifications": "MBBS,Ophthalmology ",
+    "designation": "Phaco Surgeon",
+    "img": "https://thumbs.dreamstime.com/b/doctor-drawing-hands-hearts-vector-illustration-47344625.jpg",
+    "chamberTime": "Friday-6:00 PM-09:00 PM",
+    "roomNumber": "401"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Niaz Abdur-Rahman",
+    "qualifications": "MBBS,Ophthalmology ",
+    "designation": "Vitreo-Retina Surgeon",
+    "img": "http://www.nationalvani.com/resources/media/1605972664_58bc77f4fc907696782980ff2e5862be_0.jpg",
+    "chamberTime": "Saturday-6:00 PM-09:00 PM",
+    "roomNumber": "402"
+  },
+  {
+    "id": "3",
+    "name": "Dr. Md. Ali Akbar",
+    "qualifications": "MBBS,Ophthalmology,MCPS,FCPS ",
+    "designation": "Glaucoma Specialist & Phaco Surgeon",
+    "img": "https://st4.depositphotos.com/20727252/23889/v/600/depositphotos_238891960-stock-illustration-one-line-vector-drawing-hospital.jpg",
+    "chamberTime": "Sunday-6:00 PM-09:00 PM",
+    "roomNumber": "403"
+  },
+  {
+    "id": "4",
+    "name": "Dr. Kamal Haider Khan",
+    "qualifications": "MBBS,MCPS,MS ",
+    "designation": "Glaucoma Specialist & Phaco Surgeon",
+    "img": "https://thumbs.dreamstime.com/b/doctor-drawn-single-line-man-stethoscope-124641367.jpg",
+    "chamberTime": "Monday-6:00 PM-09:00 PM",
+    "roomNumber": "404"
+  },
+  {
+    "id": "5",
+    "name": "Dr. Md. Tauhidur Rahman",
+    "qualifications": "MBBS,MCPS ",
+    "designation": "Oculoplastics & Phaco Surgeon",
+    "img": "https://thumbs.dreamstime.com/b/portrait-doctor-continuous-one-line-drawing-single-hand-drawn-minimalist-design-146394713.jpg",
+    "chamberTime": "Tuesday-6:00 PM-09:00 PM",
+    "roomNumber": "405"
+  },
+  {
+    "id": "6",
+    "name": "Dr. Kazi Shabbir Anwar",
+    "qualifications": "MBBS,MCPS,Pediatric Ophthalmology  ",
+    "designation": "Pediatric Ophthalmologist",
+    "img": "https://t.pimg.jp/038/135/375/1/38135375.jpg",
+    "chamberTime": "Wednesday-6:00 PM-09:00 PM",
+    "roomNumber": "406"
+  },
+  {
+    "id": "7",
+    "name": "Dr. Ziaul Ahsan Mukta",
+    "qualifications": "MBBS,MCPS,Vitreo-Retinal  ",
+    "designation": "Vitreo-Retina & Phaco Surgeon",
+    "img": "https://thumbs.dreamstime.com/b/female-doctor-sitting-table-continuous-one-line-vector-illustration-186386800.jpg",
+    "chamberTime": "Thursday-6:00 PM-09:00 PM",
+    "roomNumber": "407"
+  },
+  {
+    "id": "8",
+    "name": "Dr. Sarwar Jahan Muktafi",
+    "qualifications": "MBBS,MCPS,ECFMG  ",
+    "designation": " Ophthalmologist, Cataract, Medical Retina & Oculoplasty Specialist",
+    "img": "https://cdn0.iconfinder.com/data/icons/professions-line/140/doctor__avatar__man_-512.png",
+    "chamberTime": "Friday-6:00 PM-09:00 PM",
+    "roomNumber": "408"
+  },
+  {
+    "id": "9",
+    "name": "Sadia Jahan",
+    "qualifications": "MBBS,MCPS,FCPS  ",
+    "designation": " Glaucoma Specialist & Phaco Surgeon",
+    "img": "https://img.freepik.com/free-vector/sketch-doctor-wearing-medical-face-mask-cap-hand-drawn-portrait-young-female-doctor_152222-181.jpg?size=338&ext=jpg",
+    "chamberTime": "Saturday-6:00 PM-09:00 PM",
+    "roomNumber": "409"
+  },
+  {
+    "id": "10",
+    "name": "Sadia Jahan",
+    "qualifications": "MBBS,Ophthalmology,FCPS  ",
+    "designation": "  Uveitis Specialist",
+    "img": "https://i.pinimg.com/736x/19/b6/47/19b647fae36514b8488f3bb2a3d6fcbe.jpg",
+    "chamberTime": "Sunday-6:00 PM-09:00 PM",
+    "roomNumber": "410"
+  }
+]
